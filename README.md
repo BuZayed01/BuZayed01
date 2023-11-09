@@ -1,5 +1,5 @@
-youtube-dl --list-formats https://www.youtube.com/watch\?v\=6iooU-moe4k
-
+youtube-dl --list-formats [https://www.youtube.com/watch\?v\=6iooU-moe4k
+](https://www.youtube.com/watch?v=6iooU-moe4k)
 [youtube] 21X5lGlDOfg: Downloading webpage
 [youtube] 21X5lGlDOfg: Downloading m3u8 information
 [youtube] 21X5lGlDOfg: Downloading MPD manifest
